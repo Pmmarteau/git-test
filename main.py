@@ -1,1 +1,1 @@
-wesh_les_gens = "la chienneté"
+var_1 = "hello world"
